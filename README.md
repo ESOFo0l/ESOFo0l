@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ESOFo0l
 - 👀 I’m interested in learning as much as possible
-- 🌱 I’m currently learning Web development, MERN Stack , Python, Java, JS, C++, and C#
+- 🌱 I’m currently learning Web development, MERN Stack , Python, Java, JS, C++,C , HTML, CSS, JS, and C#
 - 💞️ I’m looking to collaborate on anything anyone will ask me to help on to imporve and develop my portfolio  
 - 📫 How to reach me - messagin through here ? I will get you that info as soon as I clear somethings up thank you!
 
